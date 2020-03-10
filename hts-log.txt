@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Mar 2020 12:34:14 at http://mtown88.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mtown88.com/ -O1 "C:\Users\ACER - PC\Desktop\a\a" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:42:34	Warning: 	Retry after error -2 (Receive Time Out) at link mtown88.com/assets/upload/promo/80welcome.jpg (from mtown88.com/)
+12:43:18	Error: 	"Not Found" (404) at link mtown88.com/assets/mt2/fonts/glyphicons-halflings-regular.eot (from mtown88.com/assets/mt2/css/bootstrap.min.css)
+12:43:18	Error: 	"Not Found" (404) at link mtown88.com/assets/mt2/fonts/glyphicons-halflings-regular.eot? (from mtown88.com/assets/mt2/css/bootstrap.min.css)
+12:43:18	Error: 	"Not Found" (404) at link mtown88.com/assets/mt2/fonts/glyphicons-halflings-regular.woff2 (from mtown88.com/assets/mt2/css/bootstrap.min.css)
+12:43:18	Error: 	"Not Found" (404) at link mtown88.com/assets/mt2/fonts/glyphicons-halflings-regular.woff (from mtown88.com/assets/mt2/css/bootstrap.min.css)
+12:43:18	Error: 	"Not Found" (404) at link mtown88.com/assets/mt2/fonts/glyphicons-halflings-regular.ttf (from mtown88.com/assets/mt2/css/bootstrap.min.css)
+12:43:18	Error: 	"Not Found" (404) at link mtown88.com/assets/mt2/fonts/glyphicons-halflings-regular.svg (from mtown88.com/assets/mt2/css/bootstrap.min.css)
+12:43:18	Error: 	"Not Found" (404) at link mtown88.com/assets/mt2/img/arrow.svg (from mtown88.com/assets/mt2/css/pushy.css)
+12:43:18	Error: 	"Not Found" (404) at link www.mtown88a.com/assets/upload/promo/http://mtown88c.com/new/cms/assets/upload/promo/mcoin-bm.jpg (from mtown88.com/promotions)
+12:43:18	Error: 	"Not Found" (404) at link www.mtown88a.com/assets/upload/promo/http://mtown88c.com/new/cms/assets/upload/promo/mcoin22.jpg (from mtown88.com/promotions)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 40 seconds : 114 links scanned, 103 files written (13538024 bytes overall) [13504554 bytes received at 23283 bytes/sec], 102004 bytes transferred using HTTP compression in 2 files, ratio 25%, 1.9 requests per connection
+(9 errors, 1 warnings, 0 messages)
